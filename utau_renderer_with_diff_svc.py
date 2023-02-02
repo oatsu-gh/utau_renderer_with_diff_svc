@@ -19,7 +19,7 @@ import utaupy
 from natsort import natsorted
 from PyUtauCli.projects.Render import Render
 from PyUtauCli.projects.Ust import Ust
-from torch.device import cuda
+from torch import cuda
 from tqdm.auto import tqdm
 
 DIFF_SVC_DIR = join(dirname(__file__), 'diff-svc')

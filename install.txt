@@ -1,0 +1,4 @@
+type=editplugin
+folder=utau_renderer_with_diff_svc-v0.0.1
+contentsdir=utau_renderer_with_diff_svc-v0.0.1
+description=Diff-SVCを使ってWAV生成するプラグイン
