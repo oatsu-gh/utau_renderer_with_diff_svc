@@ -13,8 +13,7 @@ Render wav and convert it with [Diff-SVC](https://github.com/prophesier/diff-svc
   - **とくに、本ソフトを使用した動画や音声をはじめとした何らかの制作物を公開する場合には、Diff-SVC の規約にある通り、Diff-SVC の原作者名 (prophesier) とリポジトリへのリンク(https://github.com/prophesier/diff-svc)を絶対に明記してください**。 
 
 ## コンセプト
-- UTAUの出力音にNSFを適用することで高音質化を図る。
-- プラグインとしてエンジンを起動できるので、様々なフィルターをかけることができる
+- UTAUの出力音にDiff-SVCを適用することで生声に近づける。
 
 ## 処理内容
 
