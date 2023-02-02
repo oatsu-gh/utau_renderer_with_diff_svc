@@ -1,0 +1,7 @@
+.mypy_cache
+test
+release
+*.wav
+*.ust
+*.tmp
+*.flac
